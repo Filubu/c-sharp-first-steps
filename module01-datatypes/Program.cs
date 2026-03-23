@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+// See https://aka.ms/new-console-template for more information
 
 /* * ---------------------------------------------------------
 *DATA TYPE CHEAT SHEET (C#)
@@ -73,7 +73,7 @@ bool hasSpecialItem = false; // Inventory check
 * and add 10 to it. Print the result with -Console.WriteLine("Your Text comes here");-
 */
 string inputAge = "15";
-// TODO: Your code here
+
 
 /* * Task 2: The "Experience Points" Display (Casting)
 * -> You have 1500.99 XP. Your UI can only show whole numbers.
